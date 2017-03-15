@@ -26,4 +26,4 @@ NOTE: Each thread in java has it's own stack which is used for storing runtime d
 
 * Why character array is preferred for storing passwords when comapred to String
 
-* Why is BigDecimal preferred over decimal to store currency in java
+* Why is BigDecimal preferred over Double to store currency in java
