@@ -32,3 +32,7 @@ NOTE: Each thread in java has it's own stack which is used for storing runtime d
 <b> Spring </b>
 * How to resolve circular dependency in spring
 * Transaction Isolation levels
+
+<b> Web Services </b>
+* Securing a web serice
+* XML gateway
